@@ -48,7 +48,6 @@
 
     $(document).ready(function() {
         $('#SignUpForm').submit(function(e) {
-            window.alert("Hello000");
             $('#confirmDiv').show();
         });
     })
